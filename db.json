@@ -1,4 +1,5 @@
-"Fruits":[
+{
+"fruits":[
   {
     "name": "Apple",
     "price": 1.2,
@@ -126,3 +127,4 @@
     "imageUrl": "https://i.pinimg.com/originals/af/af/38/afa7382bc4df8bcf0ee5e03c41fd99f3.jpg"
   }
 ]
+}
