@@ -1,0 +1,128 @@
+"Fruits":[
+  {
+    "name": "Apple",
+    "price": 1.2,
+    "quantity": 50,
+    "imageUrl": "https://i.pinimg.com/originals/09/21/2c/09212cdd924500d10a20bcdbd1899d47.jpg"
+  },
+  {
+    "name": "Banana",
+    "price": 0.5,
+    "quantity": 100,
+    "imageUrl": "https://i.pinimg.com/originals/e6/83/b0/e683b0e429ad6c53d1bfb0083b6247ee.jpg"
+  },
+  {
+    "name": "Orange",
+    "price": 0.8,
+    "quantity": 75,
+    "imageUrl": "https://i.pinimg.com/originals/fd/39/ae/fd39ae37139e8d46aabe34fa90aef840.jpg"
+  },
+  {
+    "name": "Grapes",
+    "price": 2.0,
+    "quantity": 60,
+    "imageUrl": "https://i.pinimg.com/originals/c5/d8/52/c5d8529aa6bdb5c4a216cf8b8458b72b.jpg"
+  },
+  {
+    "name": "Mango",
+    "price": 1.5,
+    "quantity": 40,
+    "imageUrl": "https://i.pinimg.com/originals/51/af/b2/51afb23e55b0b98f4e5678ee7773be96.jpg"
+  },
+  {
+    "name": "Strawberry",
+    "price": 2.5,
+    "quantity": 80,
+    "imageUrl": "https://i.pinimg.com/originals/cf/c0/f9/cfc0f973d12c7381a83d89c1eb8c6148.jpg"
+  },
+  {
+    "name": "Pineapple",
+    "price": 3.0,
+    "quantity": 30,
+    "imageUrl": "https://i.pinimg.com/originals/a3/b7/cc/a3b7cc8919da87e691b4325674b11b7b.jpg"
+  },
+  {
+    "name": "Blueberry",
+    "price": 4.0,
+    "quantity": 25,
+    "imageUrl": "https://i.pinimg.com/originals/5d/a3/90/5da390cfca458d5dc5c63e48c1ec5767.jpg"
+  },
+  {
+    "name": "Watermelon",
+    "price": 0.9,
+    "quantity": 45,
+    "imageUrl": "https://i.pinimg.com/originals/d5/94/74/d594740376d1f8ae80f0c62a3e949d01.jpg"
+  },
+  {
+    "name": "Peach",
+    "price": 1.8,
+    "quantity": 35,
+    "imageUrl": "https://i.pinimg.com/originals/64/43/61/6443616c8b2bb0b737761229f35b2854.jpg"
+  },
+  {
+    "name": "Pear",
+    "price": 1.3,
+    "quantity": 50,
+    "imageUrl": "https://i.pinimg.com/originals/60/94/ee/6094ee1c37f28d10c774b69d97b0ef67.jpg"
+  },
+  {
+    "name": "Kiwi",
+    "price": 2.2,
+    "quantity": 40,
+    "imageUrl": "https://i.pinimg.com/originals/83/8f/a3/838fa3d2f571f09db1b4eb7c99cfc45a.jpg"
+  },
+  {
+    "name": "Cherry",
+    "price": 3.5,
+    "quantity": 20,
+    "imageUrl": "https://i.pinimg.com/originals/54/83/3d/54833d2d00c1985fc0ed89cdba0437e1.jpg"
+  },
+  {
+    "name": "Coconut",
+    "price": 2.8,
+    "quantity": 15,
+    "imageUrl": "https://i.pinimg.com/originals/4c/25/3b/4c253bb611246d60de0e5f8b5d1d707d.jpg"
+  },
+  {
+    "name": "Lemon",
+    "price": 0.6,
+    "quantity": 70,
+    "imageUrl": "https://i.pinimg.com/originals/1f/03/14/1f031490a7d015441b290f3d05e128b2.jpg"
+  },
+  {
+    "name": "Lime",
+    "price": 0.7,
+    "quantity": 65,
+    "imageUrl": "https://i.pinimg.com/originals/51/73/2c/51732c6ccf5a961d0803eb1b7f7c09d.jpg"
+  },
+  {
+    "name": "Apricot",
+    "price": 1.9,
+    "quantity": 30,
+    "imageUrl": "https://i.pinimg.com/originals/44/1d/ae/441dae8b11098ae857373b0079a6c885.jpg"
+  },
+  {
+    "name": "Pomegranate",
+    "price": 3.2,
+    "quantity": 25,
+    "imageUrl": "https://i.pinimg.com/originals/45/a5/2f/45a52f5a5b699d14bc045c64dc04b36b.jpg"
+  },
+  {
+    "name": "Raspberry",
+    "price": 2.5,
+    "quantity": 30,
+    "imageUrl": "https://i.pinimg.com/originals/78/7a/92/787a926b707bc6e03558c713b0453c7d.jpg"
+  },
+  {
+    "name": "Fig",
+    "price": 2.0,
+    "quantity": 20,
+    "imageUrl": "https://i.pinimg.com/originals/eb/cc/93/ebcc93de2e02df2dcd38bb59c63e7330.jpg"
+  },
+  {
+    "name": "Papaya",
+    "price": 1.4,
+    "quantity": 30,
+    "imageUrl": "https://i.pinimg.com/originals/af/af/38/afa7382bc4df8bcf0ee5e03c41fd99f3.jpg"
+  }
+]
