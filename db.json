@@ -4,127 +4,127 @@
       "name": "Apple",
       "price": 1.2,
       "quantity": 50,
-      "imageUrl": "https://www.istockphoto.com/photos/apple-fruit"
+      "imageUrl": "https://media.istockphoto.com/id/2099124803/photo/red-apple-on-white-background.jpg?s=1024x1024&w=is&k=20&c=wPOcLj84AHJIEEf_QzEfuDO9IjwRSQNH4E7KZLs7JCY="
     },
     {
       "name": "Banana",
       "price": 0.5,
       "quantity": 100,
-      "imageUrl": "https://www.istockphoto.com/photos/banana-fruit"
+      "imageUrl": "https://media.istockphoto.com/id/1400057530/photo/bananas-isolated.jpg?s=1024x1024&w=is&k=20&c=-ruVq5DUbWNJxdLGKv445QzB1cc9AvqxKH3JZ2yrpRc="
     },
     {
       "name": "Orange",
       "price": 0.8,
       "quantity": 75,
-      "imageUrl": "https://www.istockphoto.com/photos/orange-fruit"
+      "imageUrl": "https://media.istockphoto.com/id/185284489/photo/orange.jpg?s=1024x1024&w=is&k=20&c=q5eBnLHG9tiKv0Hl2lPVF6nnEYCXQtFYfh0u9mvHwaI="
     },
     {
       "name": "Grapes",
       "price": 2.0,
       "quantity": 60,
-      "imageUrl": "https://www.istockphoto.com/photos/grape"
+      "imageUrl": "https://media.istockphoto.com/id/803721418/photo/grape-dark-grape-grapes-with-leaves-isolated-with-clipping-path-full-depth-of-field.jpg?s=1024x1024&w=is&k=20&c=VIdk7rmc7uNl2zyoR6NaV30NPBp4c1JZcxqFQpCLzJ0="
     },
     {
       "name": "Mango",
       "price": 1.5,
       "quantity": 40,
-      "imageUrl": "https://www.istockphoto.com/photos/mango-fruit"
+      "imageUrl": "https://media.istockphoto.com/id/168370138/photo/mango.jpg?s=1024x1024&w=is&k=20&c=HBXIjdVwjydQmINVBRCxeVivTdejyHsZPgVWLiniGRM="
     },
     {
       "name": "Strawberry",
       "price": 2.5,
       "quantity": 80,
-      "imageUrl": "https://unsplash.com/s/photos/strawberry"
+      "imageUrl": "https://media.istockphoto.com/id/1412854156/photo/strawberries-isolated-strawberry-whole-and-a-half-on-white-background-strawberry-slice-with.jpg?s=1024x1024&w=is&k=20&c=bv9U6hNHbxbR9D_CdhmeBN9pmZDf3nc5tiFsoHPHTuk="
     },
     {
       "name": "Pineapple",
       "price": 3.0,
       "quantity": 30,
-      "imageUrl": "https://unsplash.com/s/photos/pineapple"
+      "imageUrl": "https://media.istockphoto.com/id/452352231/photo/pineapple.jpg?s=1024x1024&w=is&k=20&c=mZf2r6h4MQZakhNQytCgQzvm6U4_LIb8CfQXCKTutaE="
     },
     {
       "name": "Blueberry",
       "price": 4.0,
       "quantity": 25,
-      "imageUrl": "https://www.istockphoto.com/photos/blueberry-fruit"
+      "imageUrl": "https://media.istockphoto.com/id/853493518/photo/blueberry-isolated-on-white-background.jpg?s=1024x1024&w=is&k=20&c=4nlHqI0G7LXU4pBZOUCaMXa6-xZcF6z6v26o5ZFPLtE="
     },
     {
       "name": "Watermelon",
       "price": 0.9,
       "quantity": 45,
-      "imageUrl": "https://www.istockphoto.com/photos/watermelon"
+      "imageUrl": "https://media.istockphoto.com/id/1321448019/photo/ripe-juicy-watermelon-isolated-on-white-background.jpg?s=1024x1024&w=is&k=20&c=hTEGWeUIiXRtCUwpfZti4D6415228VAKEuF4w8ZEWeo="
     },
     {
       "name": "Peach",
       "price": 1.8,
       "quantity": 35,
-      "imageUrl": "https://unsplash.com/s/photos/peach"
+      "imageUrl": "https://media.istockphoto.com/id/1137630158/photo/single-peach-fruit-with-leaf-isolated-on-white.jpg?s=1024x1024&w=is&k=20&c=2h2ITUKvHTyT5xZZZGjTZPR4vNgPYshd_q3lt3maIG8="
     },
     {
       "name": "Pear",
       "price": 1.3,
       "quantity": 50,
-      "imageUrl": "https://unsplash.com/s/photos/pear"
+      "imageUrl": "https://media.istockphoto.com/id/164142758/photo/single-pear.jpg?s=1024x1024&w=is&k=20&c=5oX4xoM6iKDw7o2SHGuQaa1-IcmicZwhVbTpNYjJF5c="
     },
     {
       "name": "Kiwi",
       "price": 2.2,
       "quantity": 40,
-      "imageUrl": "https://www.istockphoto.com/photos/kiwi-fruit"
+      "imageUrl": "https://media.istockphoto.com/id/834807852/photo/whole-kiwi-fruit-and-half-kiwi-fruit-on-white.jpg?s=1024x1024&w=is&k=20&c=4PGwUpYqZkOsQSDSnziVuZqjl91ALdBn6NP9fXX65v4="
     },
     {
       "name": "Cherry",
       "price": 3.5,
       "quantity": 20,
-      "imageUrl": "https://stock.adobe.com/search?k=%22cherry%20fruits%22"
+      "imageUrl": "https://media.istockphoto.com/id/533381303/photo/cherry-with-leaves-isolated-on-white-background.jpg?s=1024x1024&w=is&k=20&c=91Fl8anu-m-dHoUfmbzay0PWbPEw1A4C-FMfu6WzrvM="
     },
     {
       "name": "Coconut",
       "price": 2.8,
       "quantity": 15,
-      "imageUrl": "https://www.shutterstock.com/search/coconut-fruit"
+      "imageUrl": "https://media.istockphoto.com/id/1158975559/photo/coco-coconut-half-and-piece-isolated-cocos-white-full-depth-of-field.jpg?s=1024x1024&w=is&k=20&c=hMhM5A5SNA8aC7HknC34_eyncjGFPiCQthRg0B9Sf0c="
     },
     {
       "name": "Lemon",
       "price": 0.6,
       "quantity": 70,
-      "imageUrl": "https://www.istockphoto.com/photos/lemon-fruit"
+      "imageUrl": "https://media.istockphoto.com/id/1389128157/photo/lemon-fruit-with-leaf-isolated-whole-lemon-and-a-half-with-leaves-on-white-background-lemons.jpg?s=1024x1024&w=is&k=20&c=CH4ZNsIoy2CjonXt9oaGMhTzbvN5QuY7LgvX2RgaWws="
     },
     {
       "name": "Lime",
       "price": 0.7,
       "quantity": 65,
-      "imageUrl": "https://www.istockphoto.com/photos/lime"
+      "imageUrl": "https://media.istockphoto.com/id/106491732/photo/lemon.jpg?s=1024x1024&w=is&k=20&c=BnZlpj6lqUYO8WB0mrp5RmWhxIA81fRLckqIh652LGs="
     },
     {
       "name": "Apricot",
       "price": 1.9,
       "quantity": 30,
-      "imageUrl": "https://unsplash.com/s/photos/apricot"
+      "imageUrl": "https://media.istockphoto.com/id/1159003963/photo/apricot-isolate-apricots-with-slice-on-white-fresh-apricots-with-clipping-path-full-depth-of.jpg?s=1024x1024&w=is&k=20&c=mplbl4v-2T_QXtQpzsJbzQLgmBHQBpKDDn-tIkaGhmg="
     },
     {
       "name": "Pomegranate",
       "price": 3.2,
       "quantity": 25,
-      "imageUrl": "https://www.istockphoto.com/photos/pomegranate"
+      "imageUrl": "https://media.istockphoto.com/id/1397537185/photo/pomegranate-fruit-on-white.jpg?s=1024x1024&w=is&k=20&c=1E0D6e4JUfJmgA9gfEnChoWQUZqhtkxdUDyIVp8M9UM="
     },
     {
       "name": "Raspberry",
       "price": 2.5,
       "quantity": 30,
-      "imageUrl": "https://pixabay.com/images/search/raspberry/"
+      "imageUrl": "https://media.istockphoto.com/id/648967314/photo/raspberry-with-leaves-isolated-on-white-background.jpg?s=1024x1024&w=is&k=20&c=2aUsSfp19xNB3ohao8txfaB3NJGfZK17G4KwMRsiGyc="
     },
     {
       "name": "Fig",
       "price": 2.0,
       "quantity": 20,
-      "imageUrl": "https://www.istockphoto.com/photos/fig-fruit"
+      "imageUrl": "https://media.istockphoto.com/id/178481233/photo/a-halved-and-whole-fig-isolated-on-a-white-background.jpg?s=1024x1024&w=is&k=20&c=6cn_UtfI2WDyZ29RMojwiwR4rr-lgwW6aYuxmKvXwzc="
     },
     {
       "name": "Papaya",
       "price": 1.4,
       "quantity": 30,
-      "imageUrl": "https://www.istockphoto.com/photos/papaya"
+      "imageUrl": "https://media.istockphoto.com/id/864053288/photo/whole-and-half-of-ripe-papaya-fruit-with-seeds-isolated-on-white-background.jpg?s=1024x1024&w=is&k=20&c=wo29Nr9yzEEQvqIi1vMIQp-kVGkHdsrCspxdWXOI0Dk="
     }
   ]
 }
